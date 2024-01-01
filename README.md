@@ -15,8 +15,11 @@
 - [A map through the three major coroutine series](https://devblogs.microsoft.com/oldnewthing/?p=105178 )
 - [C++ links: Coroutines](https://gist.github.com/MattPD/9b55db49537a90545a90447392ad3aeb)
 - [(일어) C++ 코루틴 예제 코드 모음](https://qiita.com/yohhoy/items/aeb3c01d02d0f640c067 ) 
+- [코루틴 예제 코드 모음](https://drive.google.com/file/d/1vAH4HyKootf3oi77t5tpi-8H4xMQOstQ/view )
+- [(일어) C++20コルーチンで遊ぶ with OpenSiv3D](https://qiita.com/tyanmahou/items/1799d80c9e260b2267d5  )
+- [A C++20 coroutine example](https://mariusbancila.ro/blog/2020/06/22/a-cpp20-coroutine-example )
      
-   
+    
 <br>  
      
 # 라이브러리 분석
@@ -44,7 +47,21 @@
 ## tinycoro  
 - https://github.com/asmei1/tinycoro 
 - 코루틴을 epoll에 사용하는 방법을 알아볼 때 유용  
+
+   
+## libcopp
+- https://github.com/owent/libcopp
+
   
+## C++20 で goroutine/Channel みたいなことをやるライブラリ作った
+- https://qiita.com/Fuyutsubaki/items/894ee7b4eb12c2565822
 
+  
+## Coro-Async : A lite C++ coroutine networking library | Introduction
+- http://templated-thoughts.blogspot.com/2018/11/coro-async-lite-c-coroutine-networking.html
 
+    
+## edubart/minicoro
+- https://github.com/edubart/minicoro 
+  
   
