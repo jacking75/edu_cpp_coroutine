@@ -1,8 +1,0 @@
-*.dockerfile
-.dockerignore
-
-.git
-[Bb]uild
-install
-docs
-azure
