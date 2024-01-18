@@ -9,6 +9,7 @@
     - 박동하님이 깃허브에 올린 글과 코드를 참고하면 좋다.
         - https://github.com/luncliff/coroutine
         - 코루틴 설명은 여기에  https://github.com/luncliff/coroutine/tree/master/docs
+        - [Russian Roulette and C++ Coroutines](https://github.com/luncliff/coroutine/blob/main/docs/articles/russian-roulette-kor.md )
         - 코루틴 라이브러리 분석은 아래 저장소에 있는 테스트 코드를 시작으로 관련 코드의 흐름을 하나씩 따라가보면 라이브러리로 어떻게 만드는지 배우는데 좋습니다.  https://github.com/luncliff/coroutine/tree/master/test
 
 # 학습 자료
