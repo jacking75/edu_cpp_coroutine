@@ -41,6 +41,11 @@
 - [C++20: Thread Pools with cppcoro](http://www.modernescpp.com/index.php/c-20-thread-pools-with-cppcoro )
 - [A C++20 coroutine example](https://mariusbancila.ro/blog/2020/06/22/a-cpp20-coroutine-example/ )
       
+   
+## Coop   
+- Coop is a C++20 coroutines-based library to support cooperative multitasking in the context of a multithreaded application
+- https://github.com/jeremyong/coop
+  
        
 ## Fuyutsubaki/coffin-goroutine 
 - Golang의 goroutine, Channel과 비슷
