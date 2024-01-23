@@ -26,6 +26,12 @@
      
 # 라이브러리 분석
 
+## tinycoro  
+- https://github.com/asmei1/tinycoro 
+- 코루틴을 epoll에 사용하는 방법을 알아볼 때 유용  
+  
+
+  
 ## coro: Single-header library facilities for C++2a Coroutines
 - https://github.com/Quuxplusone/coro
 - https://quuxplusone.github.io/blog/2019/07/03/announcing-coro-examples/
@@ -39,35 +45,23 @@
 - [C++20: Coroutines with cppcoro](http://www.modernescpp.com/index.php/c-20-coroutines-with-cppcoro )
 - [C++20: Powerful Coroutines with cppcoro](http://www.modernescpp.com/index.php/c-20-coroutine-abstraction-with-cppcoro )
 - [C++20: Thread Pools with cppcoro](http://www.modernescpp.com/index.php/c-20-thread-pools-with-cppcoro )
-- [A C++20 coroutine example](https://mariusbancila.ro/blog/2020/06/22/a-cpp20-coroutine-example/ )
-      
-   
+
+
+    
 ## Coop   
 - Coop is a C++20 coroutines-based library to support cooperative multitasking in the context of a multithreaded application
 - https://github.com/jeremyong/coop
-  
-       
-## Fuyutsubaki/coffin-goroutine 
-- Golang의 goroutine, Channel과 비슷
-- 설명: https://qiita.com/Fuyutsubaki/items/894ee7b4eb12c2565822
-   
+
+
   
 ##  kuro 
 - https://github.com/X-Neon/kuro 
 - A C++20 coroutine library, somewhat modelled on Python's asyncio
     
-     
-## tinycoro  
-- https://github.com/asmei1/tinycoro 
-- 코루틴을 epoll에 사용하는 방법을 알아볼 때 유용  
 
    
 ## libcopp
 - https://github.com/owent/libcopp
-
-  
-## C++20 で goroutine/Channel みたいなことをやるライブラリ作った
-- https://qiita.com/Fuyutsubaki/items/894ee7b4eb12c2565822
 
   
 ## Coro-Async : A lite C++ coroutine networking library | Introduction

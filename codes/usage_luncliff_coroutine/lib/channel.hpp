@@ -52,6 +52,7 @@ struct bypass_mutex final {
     }
 };
 
+
 namespace internal {
 
 /**
